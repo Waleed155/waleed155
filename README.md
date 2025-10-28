@@ -32,11 +32,11 @@
   <img alt="EntityFrame Work" src="https://img.shields.io/badge/EntityFrame Work-0081CB?style=flat-square&logoColor=white" />
    <img alt="MVC" src="https://img.shields.io/badge/MVC-FFA116?style=flat-square&logoColor=white" />
   <img alt="Restful Api" src="https://img.shields.io/badge/Restful Api-2B9EB3?style=flat-square&logoColor=white" />
-    <img alt="N-tier Architecture" src="https://img.shields.io/badge/N-tier-Architecture-2B9EB3?style=flat-square&logoColor=white" />
-      <img alt="Onion Architecture " src="https://img.shields.io/badge/Onion-Architecture -FF6B6B?style=flat-square&logoColor=white" />
-   <img alt="State Pattern" src="https://img.shields.io/badge/State-Pattern-FFA116?style=flat-square&logoColor=white" />
-  <img alt="Singleton Pattern" src="https://img.shields.io/badge/Singleton-Pattern-0081CB?style=flat-square&logoColor=white" />
-    <img alt="Chain OF Responsibility Pattern" src="https://img.shields.io/badge/Chain-OF-Responsibility Pattern-2B9EB3?style=flat-square&logoColor=white" />
+    <img alt="N-tier Architecture" src="https://img.shields.io/badge/N-tier Architecture-2B9EB3?style=flat-square&logoColor=white" />
+      <img alt="Onion Architecture " src="https://img.shields.io/badge/Onion Architecture -FF6B6B?style=flat-square&logoColor=white" />
+   <img alt="State Pattern" src="https://img.shields.io/badge/State Pattern-FFA116?style=flat-square&logoColor=white" />
+  <img alt="Singleton Pattern" src="https://img.shields.io/badge/SingletonPattern-0081CB?style=flat-square&logoColor=white" />
+    <img alt="Chain OF Responsibility Pattern" src="https://img.shields.io/badge/Chain OF Responsibility Pattern-2B9EB3?style=flat-square&logoColor=white" />
   <img alt="Facade Pattern" src="https://img.shields.io/badge/Facade Pattern-FF6B6B?style=flat-square&logoColor=white" />
   <img alt="Decorator Pattern" src="https://img.shields.io/badge/Decorator%20Pattern-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Builder Pattern" src="https://img.shields.io/badge/Builder Pattern-0081CB?style=flat-square&logoColor=white" />
