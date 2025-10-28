@@ -24,9 +24,8 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   🛠 Tech Stack:
-   @*backend skills*@
   <img alt="T-SQL" src="https://img.shields.io/badge/T-SQL-FF6B6B?style=flat-square&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/ C# -0081CB?style=flat-square&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/ C#-0081CB?style=flat-square&logoColor=white" />
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="LINQ" src="https://img.shields.io/badge/LINQ-FF6B6B?style=flat-square&logoColor=white" />
   <img alt="EntityFrame Work" src="https://img.shields.io/badge/EntityFrame Work-0081CB?style=flat-square&logoColor=white" />
