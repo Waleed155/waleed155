@@ -24,33 +24,31 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   🛠 Tech Stack:
-   //backend skills
-  <img alt="T-SQL" src="https://img.shields.io/badge/SQL-FF6B6B?style=flat-square&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/EntityFrame Work-0081CB?style=flat-square&logoColor=white" />
+   @*backend skills*@
+  <img alt="T-SQL" src="https://img.shields.io/badge/T-SQL-FF6B6B?style=flat-square&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/ C# -0081CB?style=flat-square&logoColor=white" />
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="LINQ" src="https://img.shields.io/badge/LINQ-FF6B6B?style=flat-square&logoColor=white" />
   <img alt="EntityFrame Work" src="https://img.shields.io/badge/EntityFrame Work-0081CB?style=flat-square&logoColor=white" />
    <img alt="MVC" src="https://img.shields.io/badge/MVC-FFA116?style=flat-square&logoColor=white" />
   <img alt="Restful Api" src="https://img.shields.io/badge/Restful Api-2B9EB3?style=flat-square&logoColor=white" />
-    <img alt="N-tier Architecture" src="https://img.shields.io/badge/HTML5-2B9EB3?style=flat-square&logoColor=white" />
-      <img alt="Onion Architecture " src="https://img.shields.io/badge/CSS3-FF6B6B?style=flat-square&logoColor=white" />
-   <img alt="State Pattern" src="https://img.shields.io/badge/JS-FFA116?style=flat-square&logoColor=white" />
-  <img alt="Singleton Pattern" src="https://img.shields.io/badge/Angular-0081CB?style=flat-square&logoColor=white" />
-    <img alt="Chain OF Responsibility Pattern" src="https://img.shields.io/badge/Bootstrap-2B9EB3?style=flat-square&logoColor=white" />
-  <img alt="Facade Pattern" src="https://img.shields.io/badge/SQL-FF6B6B?style=flat-square&logoColor=white" />
-  <img alt="Decorator Pattern" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Mediator Pattern | Result Pattern | Out Box Pattern | CQRS Pattern
-" src="https://img.shields.io/badge/LINQ-FF6B6B?style=flat-square&logoColor=white" />
-  <img alt="Builder Pattern" src="https://img.shields.io/badge/EntityFrame Work-0081CB?style=flat-square&logoColor=white" />
-   <img alt="Observer Pattern" src="https://img.shields.io/badge/MVC-FFA116?style=flat-square&logoColor=white" />
-  <img alt="Repository Pattern" src="https://img.shields.io/badge/Restful Api-2B9EB3?style=flat-square&logoColor=white" />
-      <img alt="Dependency Injection Pattern" src="https://img.shields.io/badge/HTML5-2B9EB3?style=flat-square&logoColor=white" />
-      <img alt="Unit OF Work Pattern" src="https://img.shields.io/badge/CSS3-FF6B6B?style=flat-square&logoColor=white" />
-   <img alt="Mediator Pattern" src="https://img.shields.io/badge/JS-FFA116?style=flat-square&logoColor=white" />
-  <img alt="Result Pattern" src="https://img.shields.io/badge/Angular-0081CB?style=flat-square&logoColor=white" />
-    <img alt="Out Box Pattern" src="https://img.shields.io/badge/Bootstrap-2B9EB3?style=flat-square&logoColor=white" />
-  <img alt="CQRS Pattern" src="https://img.shields.io/badge/SQL-FF6B6B?style=flat-square&logoColor=white" />
-//frontend Skills
+    <img alt="N-tier Architecture" src="https://img.shields.io/badge/N-tier Architecture-2B9EB3?style=flat-square&logoColor=white" />
+      <img alt="Onion Architecture " src="https://img.shields.io/badge/Onion Architecture -FF6B6B?style=flat-square&logoColor=white" />
+   <img alt="State Pattern" src="https://img.shields.io/badge/State Pattern-FFA116?style=flat-square&logoColor=white" />
+  <img alt="Singleton Pattern" src="https://img.shields.io/badge/Singleton Pattern-0081CB?style=flat-square&logoColor=white" />
+    <img alt="Chain OF Responsibility Pattern" src="https://img.shields.io/badge/Chain OF Responsibility Pattern-2B9EB3?style=flat-square&logoColor=white" />
+  <img alt="Facade Pattern" src="https://img.shields.io/badge/Facade Pattern-FF6B6B?style=flat-square&logoColor=white" />
+  <img alt="Decorator Pattern" src="https://img.shields.io/badge/Decorator%20Patternriented-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Builder Pattern" src="https://img.shields.io/badge/Builder Pattern-0081CB?style=flat-square&logoColor=white" />
+   <img alt="Observer Pattern" src="https://img.shields.io/badge/Observer Pattern-FFA116?style=flat-square&logoColor=white" />
+  <img alt="Repository Pattern" src="https://img.shields.io/badge/Repository Pattern-2B9EB3?style=flat-square&logoColor=white" />
+      <img alt="Dependency Injection Pattern" src="https://img.shields.io/badge/Dependency Injection Pattern-2B9EB3?style=flat-square&logoColor=white" />
+      <img alt="Unit OF Work Pattern" src="https://img.shields.io/badge/Unit OF Work Pattern-FF6B6B?style=flat-square&logoColor=white" />
+   <img alt="Mediator Pattern" src="https://img.shields.io/badge/Mediator Pattern-FFA116?style=flat-square&logoColor=white" />
+  <img alt="Result Pattern" src="https://img.shields.io/badge/Result Pattern-0081CB?style=flat-square&logoColor=white" />
+    <img alt="Out Box Pattern" src="https://img.shields.io/badge/Out Box Pattern-2B9EB3?style=flat-square&logoColor=white" />
+  <img alt="CQRS Pattern" src="https://img.shields.io/badge/CQRS Pattern-FF6B6B?style=flat-square&logoColor=white" />
+
 
  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-2B9EB3?style=flat-square&logoColor=white" />
       <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FF6B6B?style=flat-square&logoColor=white" />
