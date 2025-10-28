@@ -24,20 +24,40 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   🛠 Tech Stack:
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-2B9EB3?style=flat-square&logoColor=white" />
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FF6B6B?style=flat-square&logoColor=white" />
-   <img alt="jS" src="https://img.shields.io/badge/JS-FFA116?style=flat-square&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-0081CB?style=flat-square&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2B9EB3?style=flat-square&logoColor=white" />
-
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-FF6B6B?style=flat-square&logoColor=white" />
-
+   //backend skills
+  <img alt="T-SQL" src="https://img.shields.io/badge/SQL-FF6B6B?style=flat-square&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/EntityFrame Work-0081CB?style=flat-square&logoColor=white" />
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="LINQ" src="https://img.shields.io/badge/LINQ-FF6B6B?style=flat-square&logoColor=white" />
   <img alt="EntityFrame Work" src="https://img.shields.io/badge/EntityFrame Work-0081CB?style=flat-square&logoColor=white" />
    <img alt="MVC" src="https://img.shields.io/badge/MVC-FFA116?style=flat-square&logoColor=white" />
   <img alt="Restful Api" src="https://img.shields.io/badge/Restful Api-2B9EB3?style=flat-square&logoColor=white" />
-  
+    <img alt="N-tier Architecture" src="https://img.shields.io/badge/HTML5-2B9EB3?style=flat-square&logoColor=white" />
+      <img alt="Onion Architecture " src="https://img.shields.io/badge/CSS3-FF6B6B?style=flat-square&logoColor=white" />
+   <img alt="State Pattern" src="https://img.shields.io/badge/JS-FFA116?style=flat-square&logoColor=white" />
+  <img alt="Singleton Pattern" src="https://img.shields.io/badge/Angular-0081CB?style=flat-square&logoColor=white" />
+    <img alt="Chain OF Responsibility Pattern" src="https://img.shields.io/badge/Bootstrap-2B9EB3?style=flat-square&logoColor=white" />
+  <img alt="Facade Pattern" src="https://img.shields.io/badge/SQL-FF6B6B?style=flat-square&logoColor=white" />
+  <img alt="Decorator Pattern" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Mediator Pattern | Result Pattern | Out Box Pattern | CQRS Pattern
+" src="https://img.shields.io/badge/LINQ-FF6B6B?style=flat-square&logoColor=white" />
+  <img alt="Builder Pattern" src="https://img.shields.io/badge/EntityFrame Work-0081CB?style=flat-square&logoColor=white" />
+   <img alt="Observer Pattern" src="https://img.shields.io/badge/MVC-FFA116?style=flat-square&logoColor=white" />
+  <img alt="Repository Pattern" src="https://img.shields.io/badge/Restful Api-2B9EB3?style=flat-square&logoColor=white" />
+      <img alt="Dependency Injection Pattern" src="https://img.shields.io/badge/HTML5-2B9EB3?style=flat-square&logoColor=white" />
+      <img alt="Unit OF Work Pattern" src="https://img.shields.io/badge/CSS3-FF6B6B?style=flat-square&logoColor=white" />
+   <img alt="Mediator Pattern" src="https://img.shields.io/badge/JS-FFA116?style=flat-square&logoColor=white" />
+  <img alt="Result Pattern" src="https://img.shields.io/badge/Angular-0081CB?style=flat-square&logoColor=white" />
+    <img alt="Out Box Pattern" src="https://img.shields.io/badge/Bootstrap-2B9EB3?style=flat-square&logoColor=white" />
+  <img alt="CQRS Pattern" src="https://img.shields.io/badge/SQL-FF6B6B?style=flat-square&logoColor=white" />
+//frontend Skills
+
+ <img alt="HTML5" src="https://img.shields.io/badge/HTML5-2B9EB3?style=flat-square&logoColor=white" />
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FF6B6B?style=flat-square&logoColor=white" />
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2B9EB3?style=flat-square&logoColor=white" />
+   <img alt="jS" src="https://img.shields.io/badge/JS-FFA116?style=flat-square&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-0081CB?style=flat-square&logoColor=white" />
+ 
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Waleed+Abuelnasr;I'm+a+Full+Stack+Webdevelopper;Welcome+to+my+profile!" style="color:mix" />
