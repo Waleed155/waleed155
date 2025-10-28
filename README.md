@@ -23,7 +23,6 @@
 </p>
 <h3 align="center">Tech Stack</h3>
 <p align="center">
-  🛠 Tech Stack:
   <img alt="T-SQL" src="https://img.shields.io/badge/T-SQL-FF6B6B?style=flat-square&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/Asp.Net-FF6B6B?style=flat-square&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/Asp.Net-Core-FF6B6B?style=flat-square&logoColor=white" />
